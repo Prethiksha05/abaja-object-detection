@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['barricade']
+
+roboflow:
+  workspace: dayumluv
+  project: barricade-bgyss-b19gf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dayumluv/barricade-bgyss-b19gf/dataset/1

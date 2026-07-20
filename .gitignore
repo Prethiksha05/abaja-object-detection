@@ -1,0 +1,12 @@
+venv/
+runs/
+train/
+valid/
+test/
+abaja_dataset/
+
+*.pt
+
+__pycache__/
+*.pyc
+.DS_Store
